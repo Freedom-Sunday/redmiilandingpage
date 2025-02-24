@@ -229,7 +229,7 @@ main, .third-section{
     }
 
     .hover-box:hover{
-        box-shadow: 0 0 6px 0 lightgrey;
+        box-shadow: 0 0 6px 0 darkred;
         transition: box-shadow .25s ease;
     }
 }
