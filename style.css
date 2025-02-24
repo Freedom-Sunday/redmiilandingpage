@@ -17,6 +17,7 @@ nav{
     display: flex;
     justify-content: space-between;
     position: fixed;
+    background-color: burlywood;
     top: 0;
     z-index: 1;
 
